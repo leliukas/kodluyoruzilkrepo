@@ -14,7 +14,7 @@
 * 4'ü ekleyeceğiz, root'un soluna gittik, 6'dan küçük olduğu için soluna gittik, 3'ten büyük olduğu için sağına gittik, 5'ten küçük olduğu için soluna yerleştiririz.
 
 
-
+```
 
             8
            / \
@@ -24,4 +24,5 @@
       /  \
      1    5
       \   /
-       2 4
+       2 4 
+```
